@@ -55,9 +55,6 @@ Deployed on Netlify
 
 📦 Folder Structure
 
-<img width="455" height="344" alt="image" src="https://github.com/user-attachments/assets/ff059814-31b5-43d8-9123-1cf33b201672" />
-
-
 ```plaintext
 src/
 ├── components/
