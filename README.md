@@ -48,16 +48,14 @@ Deployed on Netlify
 
 📦 Folder Structure
 📦 Folder Structure
-bash
-Copy
-Edit
+
 src/
 ├── components/
-│   ├── BlockPanel.js         # Motion & Looks blocks
-│   ├── SpriteCanvas.js       # Canvas to display sprites
-│   ├── Sprite.js            # Single sprite rendering
+│   ├── Sidebar.js         # Motion & Looks blocks
+│   ├── PreviewArea.js       # Canvas to display sprites
+│   ├── CatSprite.js            # Single sprite rendering
 │   ├── SpriteList.js        # List & management of sprites
-│   ├── CodeArea.js         # Drag-and-drop code editor
+│   ├── MidArea.js         # Drag-and-drop code editor
 │   └── Controls.js          # Play/Add/Reset buttons
 ├── hooks/
 │   └── useCollisionDetection.js  # Hero feature logic
@@ -65,6 +63,9 @@ src/
 ├── index.js                 # Entry point
 ├── styles.css               # Tailwind CSS imports
 └── tailwind.config.js       # Tailwind configuration
+
+
+
 📄 Challenge Instructions (Implemented)
 ✅ Motion animations, drag-and-drop interface
 ✅ Looks animations
