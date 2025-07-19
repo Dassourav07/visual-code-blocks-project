@@ -13,8 +13,8 @@ const App = () => {
     {
       id: 1,
       name: 'Sprite 1',
-      x: 300,
-      y: 300,
+      x: 100,
+      y: 100,
       angle: 0,
       animations: [],
       message: '',
