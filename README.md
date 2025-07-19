@@ -59,18 +59,31 @@ Deployed on Netlify
 
 
 src/
+
 ├── components/
+
 │   ├── Sidebar.js         # Motion & Looks blocks
+
 │   ├── PreviewArea.js       # Canvas to display sprites
+
 │   ├── CatSprite.js            # Single sprite rendering
+
 │   ├── SpriteList.js        # List & management of sprites
+
 │   ├── MidArea.js         # Drag-and-drop code editor
+
 │   └── Controls.js          # Play/Add/Reset buttons
+
 ├── hooks/
+
 │   └── useCollisionDetection.js  # Hero feature logic
+
 ├── App.js                   # Main app logic & layout
+
 ├── index.js                 # Entry point
+
 ├── styles.css               # Tailwind CSS imports
+
 └── tailwind.config.js       # Tailwind configuration
 
 
