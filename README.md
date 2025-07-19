@@ -2,6 +2,7 @@
 An Visual Code, React + Tailwind CSS block-coding playground inspired by Scratch — built to demonstrate motion and looks animations, drag-and-drop coding, multiple sprite support, and a hero feature: collision-based animation swap.
 
 
+
 🚀 Features
 ✅ Motion Animations
 
@@ -47,22 +48,9 @@ Custom hooks (useCollisionDetection)
 Deployed on Netlify
 
 📦 Folder Structure
-📦 Folder Structure
 
-src/
-├── components/
-│   ├── Sidebar.js         # Motion & Looks blocks
-│   ├── PreviewArea.js       # Canvas to display sprites
-│   ├── CatSprite.js            # Single sprite rendering
-│   ├── SpriteList.js        # List & management of sprites
-│   ├── MidArea.js         # Drag-and-drop code editor
-│   └── Controls.js          # Play/Add/Reset buttons
-├── hooks/
-│   └── useCollisionDetection.js  # Hero feature logic
-├── App.js                   # Main app logic & layout
-├── index.js                 # Entry point
-├── styles.css               # Tailwind CSS imports
-└── tailwind.config.js       # Tailwind configuration
+<img width="455" height="344" alt="image" src="https://github.com/user-attachments/assets/ff059814-31b5-43d8-9123-1cf33b201672" />
+
 
 
 
@@ -103,10 +91,12 @@ Fully responsive & interactive
 
 📢 Hero Feature: Collision-Based Animation Swap
 Before Collision
-![Image1.png](image.png)
-![Image2.png](image.png)
+<img width="1907" height="970" alt="Image1" src="https://github.com/user-attachments/assets/69817d20-5851-4d5a-8426-e691c077c699" />
+<img width="1910" height="966" alt="Image2" src="https://github.com/user-attachments/assets/092895e1-82b4-4314-8947-66b1238522a3" />
+
 After Collision
-![Image3.png](image.png)
+
+<img width="1913" height="947" alt="Image3" src="https://github.com/user-attachments/assets/9f19394e-ec1c-40c6-87c6-fcce892c5b5e" />
 
 When two sprites collide:
 
