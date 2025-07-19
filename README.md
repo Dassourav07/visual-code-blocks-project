@@ -111,7 +111,8 @@ src/
 
 ✅ Netlify deployment
 
-📦 Installation
+# 📦 Installation
+
 git clone https://github.com/Dassourav07/visual-code-blocks-project.git
 
 
@@ -123,7 +124,7 @@ npm start
 
 Open http://localhost:3000 in your browser.
 
-🌍 Deployment
+# 🌍 Deployment
 
 This project is deployed on Netlify:
 
@@ -137,7 +138,7 @@ Connect Netlify to the repository
 
 Netlify automatically builds & deploys on push
 
-✨ UI & Design
+# ✨ UI & Design
 
 Ultra-modern 3D card effect using Tailwind CSS: bg-white/40, backdrop-blur-md, rounded corners, shadows, gradients
 
@@ -145,7 +146,7 @@ Bright gradient header: from-indigo-500 via-purple-500 to-pink-500
 
 Fully responsive & interactive
 
-📢 Hero Feature: Collision-Based Animation Swap
+# 📢 Hero Feature: Collision-Based Animation Swap
 
 Before Collision
 <img width="1907" height="970" alt="Image1" src="https://github.com/user-attachments/assets/69817d20-5851-4d5a-8426-e691c077c699" />
