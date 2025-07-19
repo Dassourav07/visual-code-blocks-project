@@ -58,6 +58,20 @@ Deployed on Netlify
 <img width="455" height="344" alt="image" src="https://github.com/user-attachments/assets/ff059814-31b5-43d8-9123-1cf33b201672" />
 
 
+src/
+├── components/
+│   ├── Sidebar.js         # Motion & Looks blocks
+│   ├── PreviewArea.js       # Canvas to display sprites
+│   ├── CatSprite.js            # Single sprite rendering
+│   ├── SpriteList.js        # List & management of sprites
+│   ├── MidArea.js         # Drag-and-drop code editor
+│   └── Controls.js          # Play/Add/Reset buttons
+├── hooks/
+│   └── useCollisionDetection.js  # Hero feature logic
+├── App.js                   # Main app logic & layout
+├── index.js                 # Entry point
+├── styles.css               # Tailwind CSS imports
+└── tailwind.config.js       # Tailwind configuration
 
 
 📄 Challenge Instructions (Implemented)
