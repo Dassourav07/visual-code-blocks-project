@@ -116,7 +116,7 @@ src/
 git clone https://github.com/Dassourav07/visual-code-blocks-project.git
 
 
-cd visual-code-blocks-lab
+cd visual-code-blocks-project
 
 npm install
 
