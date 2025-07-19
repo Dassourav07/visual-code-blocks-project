@@ -128,7 +128,7 @@ Open http://localhost:3000 in your browser.
 
 This project is deployed on Netlify:
 
-🔗 View Live App
+🔗 View Live App https://visual-code-blocks-project.netlify.app/
 
 To deploy:
 
