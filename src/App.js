@@ -13,8 +13,8 @@ const App = () => {
     {
       id: 1,
       name: 'Sprite 1',
-      x: 100,
-      y: 100,
+      x: 300,
+      y: 300,
       angle: 0,
       animations: [],
       message: '',
@@ -267,6 +267,7 @@ const App = () => {
                 sprites={sprites}
                 selectedSprite={selectedSprite}
                 setSelectedSprite={setSelectedSprite}
+                setSprites={setSprites}
               />
             </div>
 
