@@ -56,7 +56,16 @@ Deployed on Netlify
 
 📄 Challenge Instructions (Implemented)
 ✅ Motion animations, drag-and-drop interface
+
+
+
+
+
 ✅ Looks animations
+
+
+
+
 ✅ Multiple sprites with independent scripts
 ✅ Play button: animate all sprites together
 ✅ Hero feature: animation swap on collision
