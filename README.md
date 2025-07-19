@@ -1,4 +1,4 @@
-# 🧩 Visual Code Blocks Lab project
+# 🧩 Visual Code Blocks project
 An Visual Code, React + Tailwind CSS block-coding playground inspired by Scratch — built to demonstrate motion and looks animations, drag-and-drop coding, multiple sprite support, and a hero feature: collision-based animation swap.
 
 
