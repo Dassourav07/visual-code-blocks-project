@@ -1,4 +1,3 @@
-// src/components/SpriteList.js
 import React from 'react';
 import { Trash2 } from 'lucide-react';
 
